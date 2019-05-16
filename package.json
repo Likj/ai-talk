@@ -1,0 +1,22 @@
+{
+  "name": "ai-talk",
+  "version": "1.0.0",
+  "description": "ai-talk",
+  "main": "index.js",
+  "bin": {
+    "ai-talk": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dylan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.2.0",
+    "inquirer": "^6.3.1",
+    "sleep": "^6.1.0"
+  }
+}
